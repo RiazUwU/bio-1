@@ -12,12 +12,12 @@ a.button{
     text-align:center;
     transition: all 0.2s;
     }
-    a.youtube:hover{
+    a.button:hover{
     color:#000000;
     background-color:#FFFFFF;
     }
     @media all and (max-width:30em){
-    a.youtube{
+    a.button{
     display:block;
     margin:0.4em auto;
     }
